@@ -1,4 +1,4 @@
-project name-Music recommandation system </br>
+project name-Movie recommandation system </br>
 -> here is a python main code </br>
 Read Data and Preprocess it:</br>
 
